@@ -10,6 +10,10 @@ Em um cluster Docker Swarm, os nós do tipo Manager são responsáveis por geren
 A) docker swarm init
 B) O driver de rede padrão é o overlay, que permite a comunicação entre serviços distribuídos em diferentes nós do cluster.
 
+4.
+A) docker service create --name web-escalavel --replicas 3 nginx:alpine
+B) docker service ps web-escalavel
+
 
 
 
