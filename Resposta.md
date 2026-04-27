@@ -96,6 +96,7 @@ sudo docker swarm leave --force
 sudo docker swarm init --advertise-addr 172.18.86.37
 ```
 
+
 ---
 
 ## **Passo 2: Deploy de um Serviço**
