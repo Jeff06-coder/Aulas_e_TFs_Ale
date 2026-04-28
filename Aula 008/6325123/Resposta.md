@@ -49,3 +49,4 @@ comando para sair do swarm
 
 docker swarm leave --force
 
+
